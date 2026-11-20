@@ -1,0 +1,31 @@
+applicant_id,street,city,state,zip,region_id,years_at_address,housing_status
+APP0001,2557 Main St,Seattle,WA,98101,WA-SEA,10,Rent
+APP0002,9773 Pine St,Dallas,TX,75201,TX-DAL,8,Own-Outright
+APP0003,9450 Pine St,Los Angeles,CA,90012,CA-LA,7,Own-Mortgage
+APP0004,7189 Lake St,New York,NY,10001,NY-NYC,9,Own-Outright
+APP0005,3279 Pine St,New York,NY,10001,NY-NYC,11,Own-Mortgage
+APP0006,410 Oak St,Seattle,WA,98101,WA-SEA,7,Own-Mortgage
+APP0007,5773 Elm St,Chicago,IL,60601,IL-CHI,12,Own-Mortgage
+APP0008,6081 Oak St,Seattle,WA,98101,WA-SEA,10,Rent
+APP0009,1879 Oak St,New York,NY,10001,NY-NYC,12,Own-Mortgage
+APP0010,2644 Elm St,Detroit,MI,48226,MI-DET,13,Own-Outright
+APP0011,7223 Oak St,San Francisco,CA,94105,CA-SF,14,Rent
+APP0012,3780 Lake St,Chicago,IL,60601,IL-CHI,11,Rent
+APP0013,8930 Elm St,Detroit,MI,48226,MI-DET,1,Own-Mortgage
+APP0014,9043 Main St,Seattle,WA,98101,WA-SEA,13,Own-Mortgage
+APP0015,4650 Lake St,Detroit,MI,48226,MI-DET,15,Own-Outright
+APP0016,4971 Elm St,Seattle,WA,98101,WA-SEA,1,Own-Mortgage
+APP0017,2963 Main St,Miami,FL,33131,FL-MIA,10,Own-Mortgage
+APP0018,882 Pine St,Chicago,IL,60601,IL-CHI,11,Rent
+APP0019,696 Elm St,Dallas,TX,75201,TX-DAL,9,Own-Outright
+APP0020,7302 Oak St,Detroit,MI,48226,MI-DET,10,Own-Outright
+APP0021,9924 Elm St,Miami,FL,33131,FL-MIA,1,Rent
+APP0022,1214 Pine St,Buffalo,NY,14202,NY-BUF,14,Own-Outright
+APP0023,5335 Pine St,Detroit,MI,48226,MI-DET,12,Own-Mortgage
+APP0024,5272 Elm St,Miami,FL,33131,FL-MIA,1,Rent
+APP0025,8816 Main St,San Francisco,CA,94105,CA-SF,7,Own-Outright
+APP0026,266 Main St,San Francisco,CA,94105,CA-SF,6,Rent
+APP0027,9166 Main St,Los Angeles,CA,90012,CA-LA,15,Rent
+APP0028,8635 Elm St,Chicago,IL,60601,IL-CHI,11,Own-Mortgage
+APP0029,9768 Pine St,Buffalo,NY,14202,NY-BUF,10,Rent
+APP0030,5238 Elm St,Seattle,WA,98101,WA-SEA,15,Own-Outright

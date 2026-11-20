@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "credit-underwriting": {
+      "command": "wsl.exe",
+      "args": [
+        "-d", "Ubuntu", "--",
+        "/home/sethubargavim/.local/bin/uv",
+        "run",
+        "--directory", "/home/sethubargavim/code/my_first_agent",
+        "python", "mcp_server/server.py"
+      ]
+    }
+  }
+}

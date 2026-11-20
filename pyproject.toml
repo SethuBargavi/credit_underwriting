@@ -1,0 +1,10 @@
+[project]
+name = "credit-underwriting-agent"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "bedrock-agentcore>=1.26.1",
+    "mcp[cli]<2",
+    "strands-agents>=1.65.0",
+]
